@@ -23,6 +23,8 @@ public class MainActivity extends FragmentActivity {
 	private GridView gv;
 	private Animator mCurrentAnimator;
 	private int mShortAnimationDuration;
+	
+	//hola
 
 	private int imagenes[] = { R.drawable.descarga, R.drawable.pikachu,
 			R.drawable.logoaudition, R.drawable.audition07, 
