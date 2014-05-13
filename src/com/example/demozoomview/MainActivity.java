@@ -31,6 +31,7 @@ public class MainActivity extends FragmentActivity {
 	//veremos
 
 	//haber
+	//se pudo
 	
 	private int imagenes[] = { R.drawable.descarga, R.drawable.pikachu,
 			R.drawable.logoaudition, R.drawable.audition07, 
