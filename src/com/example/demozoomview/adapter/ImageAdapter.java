@@ -24,6 +24,7 @@ public class ImageAdapter extends BaseAdapter {
 				.getSystemService(Context.LAYOUT_INFLATER_SERVICE);
 	}
 
+
 	//sera
 
 	@Override
@@ -37,6 +38,8 @@ public class ImageAdapter extends BaseAdapter {
 		// TODO Auto-generated method stub
 		return position;
 	}
+	
+	///nose
 
 	@Override
 	public long getItemId(int position) {
