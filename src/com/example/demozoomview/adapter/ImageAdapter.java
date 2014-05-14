@@ -24,8 +24,7 @@ public class ImageAdapter extends BaseAdapter {
 				.getSystemService(Context.LAYOUT_INFLATER_SERVICE);
 	}
 
-	//prueba3
-	
+	//sera
 	@Override
 	public int getCount() {
 		// Set the count value to the total number of items in the Array
