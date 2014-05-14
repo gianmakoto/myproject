@@ -24,7 +24,7 @@ public class ImageAdapter extends BaseAdapter {
 				.getSystemService(Context.LAYOUT_INFLATER_SERVICE);
 	}
 
-	///dasdasdasdaddasd
+	//prueba3
 	
 	@Override
 	public int getCount() {
