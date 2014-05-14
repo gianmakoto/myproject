@@ -25,6 +25,7 @@ public class ImageAdapter extends BaseAdapter {
 	}
 
 	//sera
+
 	@Override
 	public int getCount() {
 		// Set the count value to the total number of items in the Array

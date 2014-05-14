@@ -30,6 +30,9 @@ public class MainActivity extends FragmentActivity {
 			R.drawable.descarga1, R.drawable.descarga2, R.drawable.descarga3, R.drawable.descarga4,
 		    R.drawable.descarga5, R.drawable.dota1, R.drawable.dota2, R.drawable.dota3, R.drawable.dota4 };
 
+	
+
+	//nose
 	@Override
 	public void onCreate(Bundle savedInstanceState) {
 		super.onCreate(savedInstanceState);
