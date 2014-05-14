@@ -24,15 +24,7 @@ public class MainActivity extends FragmentActivity {
 	private Animator mCurrentAnimator;
 	private int mShortAnimationDuration;
 	
-	//hola
-	//chao
 
-	//que paso?
-	//veremos
-
-	//haber
-	//se pudo
-	
 	private int imagenes[] = { R.drawable.descarga, R.drawable.pikachu,
 			R.drawable.logoaudition, R.drawable.audition07, 
 			R.drawable.descarga1, R.drawable.descarga2, R.drawable.descarga3, R.drawable.descarga4,
@@ -171,5 +163,5 @@ public class MainActivity extends FragmentActivity {
 			}
 		});
 	}
-    
+    ///dasdasdasdaddasd
 }
