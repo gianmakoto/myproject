@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="hello">Bienvenidos a Android</string>
+    <string name="app_name">Super Sistema 42</string>
+    <string name="titulo">Sistema Experto Inteligente</string>
+    <string name="Fotoportada">Foto de portada</string>
+
+</resources>

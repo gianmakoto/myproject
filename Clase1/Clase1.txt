@@ -1,0 +1,9 @@
+1. Doble click en Eclipse 
+2. window/preference/android y en el browse copiar la direccion de android-sdk
+3. Click Android SDK Manager
+4. Entrar a Android Virtual device, luego new
+5. Name : emulador, Target: Android 2.3.3 Level 10 y create AVD
+6. Star y no cerrar el emulador
+7. File/new/project/Android/Android Project
+8. Ingresamos un nombre al proyecto y le damos next y marcamos Android 2.2
+9. En el nombre del proyecto click derecho y click en Run as y Android application

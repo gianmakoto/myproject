@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="hello">Hello World, ejemplo4Activity!</string>
+    <string name="app_name">ejemplo4</string>
+    <string name="DescripcionGaleria">Visor de galeria</string>
+    <string name="etiquetaretroceder">Retroceder</string>
+    <string name="etiquetaavanzar">Avanzar</string>
+    <string name="etiquetasalir">Salir</string>
+
+</resources>
